@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+newspaper3k
+openai
+pydantic
+python-dotenv

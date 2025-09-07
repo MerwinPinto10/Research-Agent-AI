@@ -16,22 +16,16 @@ A simple research agent that searches topics, fetches results, and summarizes th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/research_agent.git
+   git clone https://github.com/MerwinPinto10/research_agent.git
    cd research_agent
    
 2. Create & activate virtual environment
 
 python -m venv venv
 # Windows (PowerShell)
-.\venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-
 
 3. Install dependencies
-
 pip install -r requirements.txt
-
 
 4. Set your OpenAI API key
 Create a .env file in the project root:

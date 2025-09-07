@@ -1,0 +1,32 @@
+﻿
+{
+  "items": [
+    {
+      "query": "Quantum computing breakthroughs 2025",
+      "summary_child": "Quantum computing is making computers super smart!",
+      "summary_professional": "In 2025, breakthroughs included scalable quantum error correction and photonic qubits...",
+      "key_points": ["Scalable qubits", "Error correction", "Quantum supremacy"],
+      "tables": [
+        {
+          "title": "Breakthroughs",
+          "headers": ["Breakthrough", "Institute", "Year"],
+          "rows": [["Photonic Qubits", "MIT", "2025"]]
+        }
+      ],
+      "flow_nodes": ["Quantum research -> Error correction", "Qubits -> Stability -> Applications"],
+      "chart_data": {
+        "labels": ["2023", "2024", "2025"],
+        "values": [2, 5, 10],
+        "title": "Quantum Research Papers"
+      },
+      "citations": [
+        {
+          "title": "Breakthrough in photonic qubits",
+          "url": "https://example.com/article1",
+          "date": "2025-03-12",
+          "excerpt": "MIT researchers develop photonic qubits..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+
+{
+  "query": "Quantum computing breakthroughs 2025",
+  "simple_summary": "Quantum computing in 2025 made big steps: bigger processors with more qubits and better error correction. That means some tasks may become faster than classical computers soon.",
+  "detailed_summary": "In 2025, labs improved qubit counts and error-correction methods. IBM released a 1121-qubit processor demonstration; Google reported progress on logical qubits. These advances focus on hardware scaling and reducing noise, enabling more reliable experiments and early applications in optimization and chemistry.",
+  "key_points": ["More qubits (chips >1000)", "Better error-correction (logical qubits)", "Quantum cloud access expanded", "Applications: chemistry, optimization"],
+  "table": [
+    {"Breakthrough":"1121-qubit processor","Institute":"IBM","Year":2025,"Significance":"Largest processor reported"},
+    {"Breakthrough":"Logical qubits demo","Institute":"Google","Year":2025,"Significance":"Improved reliability"}
+  ],
+  "flow": [
+    {"id":"r","label":"Research"},
+    {"id":"h","label":"Hardware","from":"r"},
+    {"id":"ec","label":"Error Correction","from":"r"},
+    {"id":"app","label":"Applications","from":["h","ec"]}
+  ],
+  "charts": {"qubits_over_time":{"labels":["2021","2022","2023","2024","2025"], "values":[50,100,200,500,1121]}},
+  "citations": [
+    {"title":"IBM Condor announcement","url":"https://www.ibm.com/quantum/condor","source":"IBM", "date":"2025-03-12"},
+    {"title":"Logical qubits at scale","url":"https://www.nature.com/articleX","source":"Nature", "date":"2025-04-02"}
+  ],
+  "raw_articles": []
+}

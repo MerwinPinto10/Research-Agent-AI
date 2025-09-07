@@ -22,6 +22,13 @@ A simple research agent that searches topics, fetches results, and summarizes th
 2. Create & activate virtual environment
 
 python -m venv venv
+
+# **Outputs:**
+
+![WhatsApp Image 2025-09-07 at 23 39 16_4b02c87c](https://github.com/user-attachments/assets/527c9408-3031-4f75-93f8-6d92e55a5447)
+
+
+
 # Windows (PowerShell)
 
 3. Install dependencies

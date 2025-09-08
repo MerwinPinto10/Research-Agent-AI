@@ -1,4 +1,5 @@
 streamlit
-reportlab
+requests
 pandas
-numpy
+reportlab
+graphviz

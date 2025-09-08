@@ -6,3 +6,4 @@ newspaper3k
 openai
 pydantic
 python-dotenv
+reportlab
